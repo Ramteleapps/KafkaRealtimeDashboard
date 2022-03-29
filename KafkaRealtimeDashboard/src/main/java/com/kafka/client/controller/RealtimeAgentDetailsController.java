@@ -33,12 +33,12 @@ public class RealtimeAgentDetailsController {
 		
 	}
 
-	@GetMapping("/getTest")
+	/*@GetMapping("/getTest")
 	public String getTest()
 	{
 		
 		return "Working Test";
-	}
+	}*/
 	
 	@GetMapping("/getTest2")
 	public void getTest2()
